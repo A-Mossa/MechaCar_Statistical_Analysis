@@ -8,14 +8,17 @@ Through analysis of P-Value via comparing each variable's Pr(<lt), interesting q
   - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
     - Spoiler Angle (value of 0.3069),  Vehicle Wieght (value of 0.0776), and AWD (value of .18) are higher than the value of 0.05
     - Vehicle Length (value of 2.60e-12) and Ground Clearance (value of 5.21e-08) are significantly lower.
-      --***Thus, we can assume that Vehicle length and Ground Clearance have a significant impact on milage and their effect cannot be attributed to random chance.
+      
+      -***Thus, we can assume that Vehicle length and Ground Clearance have a significant impact on milage and their effect cannot be attributed to random chance.
+  
   
   - Is the slope of the linear model considered to be zero? Why or why not?
+    
     - The p-value for the linear model is significantly lower than the assumed significance level of 0.05, which indicates that the slope of thelinear model is not zero.
     - Assuming the sample size was not large enough to represent the population, Analysing the r-squared value of linear model (value of 0.7149)indicates that it is possible to predict correlation between the variables and fuel consumption.
     
-    - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-       - The y-intercept (Value of 5.08e-08) is statistically insignificant; which means that the model can be used to predict with relative accuracy.
+  - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+    - The y-intercept (Value of 5.08e-08) is statistically insignificant; which means that the model can be used to predict with relative accuracy.
 
 ## Summary Statistics on Suspension Coils
 
