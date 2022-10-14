@@ -46,3 +46,20 @@ On a closer look on each lot separately, the following findings present themselv
 - The means for Lot3 of are not statistically different, p-value of 0.1589 higher than the signigicance value of 0.05.
 
 
+## Study Design: MechaCar vs Competition
+
+The Analysis team at CarsRUS would like to propose a study that can effectively compare the performance of the prototypes to competing products on the market based on specific criteria like:
+  - Fuel Consumption
+  - Pricing
+  - Chassis Type
+  - Practicality of Info-tainment systems
+  - Safety Ratings
+
+By obataining a large enough (representative) sample of similar offering from competing car manufacturers on the market over a pre-specified period of time, a statistical analysis on the value per dollar can be established to determine the ability of MechaCar to perform in the market using statistical methods such as :
+  - Regressions models
+  - ANOVA
+
+***NULL Hypothesis (H0) : 
+  - MechaCar can be favorably compete in the market against segment products.
+***Alternative Hypthesis (Ha) :
+  - MechaCar would not compete favorably against segment products.
