@@ -8,7 +8,7 @@ Through analysis of P-Value via comparing each variable's Pr(<lt), interesting q
   - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
     - Spoiler Angle (value of 0.3069),  Vehicle Wieght (value of 0.0776), and AWD (value of .18) are higher than the value of 0.05
     - Vehicle Length (value of 2.60e-12) and Ground Clearance (value of 5.21e-08) are significantly lower.
-      - ***Thus, we can assume that Vehicle length and Ground Clearance have a significant impact on milage and their effect cannot be attributed to random chance.
+      -***Thus, we can assume that Vehicle length and Ground Clearance have a significant impact on milage and their effect cannot be attributed to random chance.
   
   
   - Is the slope of the linear model considered to be zero? Why or why not?
