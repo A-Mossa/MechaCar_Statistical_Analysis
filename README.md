@@ -59,7 +59,8 @@ By obataining a large enough (representative) sample of similar offering from co
   - Regressions models
   - ANOVA
 
-***NULL Hypothesis (H0) : 
-  - MechaCar can be favorably compete in the market against segment products.
-***Alternative Hypthesis (Ha) :
-  - MechaCar would not compete favorably against segment products.
+- ***NULL Hypothesis (H0) : 
+    - MechaCar can be favorably compete in the market against segment products.
+
+- ***Alternative Hypthesis (Ha) :
+    - MechaCar would not compete favorably against segment products.
