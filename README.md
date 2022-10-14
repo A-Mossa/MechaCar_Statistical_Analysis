@@ -39,13 +39,13 @@ On a closer look on each lot separately, the following findings present themselv
 ![t.tet](https://github.com/A-Mossa/MechaCar_Statistical_Analysis/blob/main/Resources/T.test%20one%20sample.png)
 - The means in this test of all lots are not statistically different, p-value higher than the signigicance value of 0.05.
 
-![lot1]https://github.com/A-Mossa/MechaCar_Statistical_Analysis/blob/main/Resources/Lot1%20ttest.png)
+![lot1](https://github.com/A-Mossa/MechaCar_Statistical_Analysis/blob/main/Resources/Lot1%20ttest.png)
 - The means for Lot1 show staistical difference, where p-value for Lot1 is 1.568e-11, which is well below the significance value of 0.05.
 
-![lot2]https://github.com/A-Mossa/MechaCar_Statistical_Analysis/blob/main/Resources/Lot2%20ttest.png)
+![lot2](https://github.com/A-Mossa/MechaCar_Statistical_Analysis/blob/main/Resources/Lot2%20ttest.png)
 - The means for Lot2 show staistical difference, where p-value for Lot2 is 0.000591, which is well below the significance value of 0.05.
 
-![lot3]https://github.com/A-Mossa/MechaCar_Statistical_Analysis/blob/main/Resources/Lot3%20ttest.png)
+![lot3](https://github.com/A-Mossa/MechaCar_Statistical_Analysis/blob/main/Resources/Lot3%20ttest.png)
 - The means for Lot3 of are not statistically different, p-value of 0.1589 higher than the signigicance value of 0.05.
 
 
